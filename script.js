@@ -6,9 +6,8 @@ var imgWidth = 120; // width of images (unit: px)
 var imgHeight = 170; // height of images (unit: px)
 
 // Link of background music - set 'null' if you dont want to play background music
-var bgMusicURL = 'https://safetp.com/d/057b1a9c-6f2d-4f39-9a9c-7c4e6a38221f';
+var bgMusicURL = 'null';
 var bgMusicControls =  false; // Show UI music control
-var bgMusicAutoplay = true
 
 
 // ===================== start =======================
